@@ -158,5 +158,9 @@ ul.timeline a {
     font-weight: bold;
 }
 
+.mr-3 {
+    border-radius: 10px;
+}
+
 
 /*Timeline style END*/
